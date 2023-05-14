@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620963489224",
+    "project_id": "personalitytest-2781a",
+    "storage_bucket": "personalitytest-2781a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620963489224:android:702e4b3a7651add4bb0cfd",
+        "android_client_info": {
+          "package_name": "com.example.personalitytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620963489224-3t1jcdsn5725im6gm348h2g69gna1kaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB962NQn7X7-3tz7lm-ff2c-D-jHx-wmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620963489224-3t1jcdsn5725im6gm348h2g69gna1kaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
